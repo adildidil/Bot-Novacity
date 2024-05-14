@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by AdAdAdil                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/6RwuySJf                             ║
+║                                                                        ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -113,11 +113,11 @@ if(config.mongodbURL || process.env.MONGO){
   useNewUrlParser: true,
   useUnifiedTopology: true,
   }).then(async () => {
-    console.log('\x1b[32m%s\x1b[0m', `|    🍔 Connected MongoDB!`)
+    console.log('\x1b[32m%s\x1b[0m', `|    🍔 Connecter MongoDB!`)
   }).catch((err) => {
-    console.log('\x1b[32m%s\x1b[0m', `|    🍔 Failed to connect MongoDB!`)})
+    console.log('\x1b[32m%s\x1b[0m', `|    🍔 erreur de connection MongoDB!`)})
   } else {
-  console.log('\x1b[32m%s\x1b[0m', `|    🍔 Error MongoDB!`)
+  console.log('\x1b[32m%s\x1b[0m', `|    🍔 erreur MongoDB!`)
   }
 
 
@@ -144,10 +144,10 @@ printWatermark();
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by AdAdAdil                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/6RwuySJf                             ║
+║                                                                        ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
